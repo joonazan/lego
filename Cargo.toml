@@ -1,0 +1,9 @@
+[package]
+name = "lego"
+version = "0.1.0"
+authors = ["Joonatan Saarhelo <joon.saar@gmail.com>"]
+
+[dependencies]
+glium = "*"
+glium_text = "*"
+cgmath = "*"
